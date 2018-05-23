@@ -5,6 +5,8 @@
 
 Мы работаем с *Reddit*, *Oculus*, *Microsoft*, *Pinterest*, *AT&T*, *T-Mobile*, *Intel*, *Starbucks*, *HTC*, *Disney*, *Apache*, .. Кроме этого, если вы разработчик, то наверняка используете фреймворки, инструменты и сервисы, в разработке которых мы принимали непостредственное участие : *VSCode*, *React Native*, *Xamarin*, *Apache Cordova*, *Angular*, *.Net Framework*.
 
+**Мы дадим вам шанс реализовать себя! Присоединяйся! :rocket:**
+
 ## Контакты
  Email: job@akvelon.com
  
@@ -28,6 +30,34 @@ Cильные С/C++ разработчики в команду Facebook/Oculus:
 - Знание английского языка
 ```
 [Детали на HH](https://ivanovo.hh.ru/vacancy/25629206)
+
+## Python-разработчик - удаленно или переезд в США
+Backend разработчики (Python) для работы над супер популярным социальным новостным ресурсом в США.
+```
+4+ years of software engineering experience
+Expertise in Python 2.7/3
+Thrift, Protobuf, or analogous IDL;
+Cassandra or similar DB experience;
+Distributed systems experience.
+Experience with Memcached or Redis
+Willingness to travel
+Excellent collaborative and communication skills
+Ability to learn new technologies quickly and independently
+English knowledge
+```
+[Детали на HH](https://ivanovo.hh.ru/vacancy/25446075 )
+
+## Senior Back-end Developer (NodeJS) - удаленно или переезд в США
+В связи с расширением набираем команду сильных TypeScript разработчиков для работы над бэкэндом популярного сервиса, с помощью которого можно билдить, тестировать и дистрибьютить мобильные приложения. Вы будете работать с крутыми инженерами из известных стартапов и команд Microsoft (App Center, HockeyApp, Mobile Dev Tools, ReactNative, Xamarin, ...).
+```
+Разговорный английский
+Уверенное владение (3+ года работы) TypeScript/NodeJS
+MacOS
+Желательно знание Azure
+Уверенная работа с Git
+```
+[Детали на HH](https://novosibirsk.hh.ru/vacancy/25853979)
+
 ## Java-разработчик - удаленно или переезд в США
 Для разработки нового облачного приложения, в молодую энергичную команду требуется Java - разработчик. Работа с инженерными практиками (CI\CD, test automation\TDD) и с использованием agile development.
 ```
