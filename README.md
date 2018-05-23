@@ -34,37 +34,37 @@ Cильные С/C++ разработчики в команду Facebook/Oculus:
 ## Python-разработчик - удаленно или переезд в США
 Backend разработчики (Python) для работы над супер популярным социальным новостным ресурсом в США.
 ```
-4+ years of software engineering experience
-Expertise in Python 2.7/3
-Thrift, Protobuf, or analogous IDL;
-Cassandra or similar DB experience;
-Distributed systems experience.
-Experience with Memcached or Redis
-Willingness to travel
-Excellent collaborative and communication skills
-Ability to learn new technologies quickly and independently
-English knowledge
+- Strong English
+- 4+ years of software engineering experience
+- Expertise in Python 2.7/3
+- Thrift, Protobuf, or analogous IDL;
+- Cassandra or similar DB experience;
+- Distributed systems experience.
+- Experience with Memcached or Redis
+- Willingness to travel
+- Excellent collaborative and communication skills
+- Ability to learn new technologies quickly and independently
 ```
 [Детали на HH](https://ivanovo.hh.ru/vacancy/25446075 )
 
 ## Senior Back-end Developer (NodeJS) - удаленно или переезд в США
 В связи с расширением набираем команду сильных TypeScript разработчиков для работы над бэкэндом популярного сервиса, с помощью которого можно билдить, тестировать и дистрибьютить мобильные приложения. Вы будете работать с крутыми инженерами из известных стартапов и команд Microsoft (App Center, HockeyApp, Mobile Dev Tools, ReactNative, Xamarin, ...).
 ```
-Разговорный английский
-Уверенное владение (3+ года работы) TypeScript/NodeJS
-MacOS
-Желательно знание Azure
-Уверенная работа с Git
+- Разговорный английский
+- Уверенное владение (3+ года работы) TypeScript/NodeJS
+- MacOS
+- Желательно знание Azure
+- Уверенная работа с Git
 ```
 [Детали на HH](https://novosibirsk.hh.ru/vacancy/25853979)
 
 ## Senior Front-end Developer (ReactJS) - удаленно или переезд в США
 Front-end разработчики (ReactJS/Redux) для работы над супер популярным социальным новостным ресурсом в США.
 ```
-Implement features and user interfaces using ReactJS with Redux
-Engineer efficient and reusable front-end systems that drive complex web applications
-Tackle tough design and product problems
-Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
+- Implement features and user interfaces using ReactJS with Redux
+- Engineer efficient and reusable front-end systems that drive complex web applications
+- Tackle tough design and product problems
+- Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
 ```
 [Детали на HH](https://ivanovo.hh.ru/vacancy/25446068)
 
@@ -72,11 +72,11 @@ Collaborate with Product Designers, Product Managers, and Software Engineers to 
 Для разработки нового облачного приложения, в молодую энергичную команду требуется Java - разработчик. Работа с инженерными практиками (CI\CD, test automation\TDD) и с использованием agile development.
 ```
 Что обязательно:
-•	Обязательно быть хорошим инженером c опытом написания RESTful веб-сервисов (Java + Spring\Spring Boot) 1-3 года
-•	Желателен опыт работы с Postgresql и Liquibase.
-•	Желательно знание rich client side applications с использованием готовых фреймворков (backbone, knockout, angular, react и.т.д.) или без
+- Обязательно быть хорошим инженером c опытом написания RESTful веб-сервисов (Java + Spring\Spring Boot) 1-3 года
+- Желателен опыт работы с Postgresql и Liquibase.
+- Желательно знание rich client side applications с использованием готовых фреймворков (backbone, knockout, angular, react и.т.д.) или без
 Большим плюсом будет:
-•	Знание Angular 2, Typescript, Aws, Docker
-•	Работали с наборами средств бизнес-аналитики (Pentaho, Birst, Power BI).
+- Знание Angular 2, Typescript, Aws, Docker
+- Работали с наборами средств бизнес-аналитики (Pentaho, Birst, Power BI).
 ```
 [Детали на HH](https://ivanovo.hh.ru/vacancy/25647643)
