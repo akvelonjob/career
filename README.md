@@ -28,3 +28,15 @@ Cильные С/C++ разработчики в команду Facebook/Oculus:
 - Знание английского языка
 ```
 [Детали на HH](https://ivanovo.hh.ru/vacancy/25629206)
+## Java-разработчик - удаленно или переезд в США
+Для разработки нового облачного приложения, в молодую энергичную команду требуется Java - разработчик. Работа с инженерными практиками (CI\CD, test automation\TDD) и с использованием agile development.
+```
+Что обязательно:
+•	Обязательно быть хорошим инженером c опытом написания RESTful веб-сервисов (Java + Spring\Spring Boot) 1-3 года
+•	Желателен опыт работы с Postgresql и Liquibase.
+•	Желательно знание rich client side applications с использованием готовых фреймворков (backbone, knockout, angular, react и.т.д.) или без
+Большим плюсом будет:
+•	Знание Angular 2, Typescript, Aws, Docker
+•	Работали с наборами средств бизнес-аналитики (Pentaho, Birst, Power BI).
+```
+[Детали на HH](https://ivanovo.hh.ru/vacancy/25647643)
