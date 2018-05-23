@@ -58,6 +58,16 @@ MacOS
 ```
 [Детали на HH](https://novosibirsk.hh.ru/vacancy/25853979)
 
+## Senior Front-end Developer (ReactJS) - удаленно или переезд в США
+Front-end разработчики (ReactJS/Redux) для работы над супер популярным социальным новостным ресурсом в США.
+```
+Implement features and user interfaces using ReactJS with Redux
+Engineer efficient and reusable front-end systems that drive complex web applications
+Tackle tough design and product problems
+Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
+```
+[Детали на HH](https://ivanovo.hh.ru/vacancy/25446068)
+
 ## Java-разработчик - удаленно или переезд в США
 Для разработки нового облачного приложения, в молодую энергичную команду требуется Java - разработчик. Работа с инженерными практиками (CI\CD, test automation\TDD) и с использованием agile development.
 ```
