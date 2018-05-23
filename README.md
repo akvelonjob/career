@@ -19,3 +19,12 @@
 
 
 # Наши вакансии
+
+## Senior С/С++ Developer (Oculus) - переезд в США
+Cильные С/C++ разработчики в команду Facebook/Oculus: Research VR/AR Engineer и CV/ML Performance Engineer
+```
+- Серьезный опыт С / С++, включая С++ 11 (от 5 лет)
+- Problem solving and optimization ability
+- Знание английского языка
+```
+[Детали на HH](https://ivanovo.hh.ru/vacancy/25629206)
