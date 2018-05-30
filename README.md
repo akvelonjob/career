@@ -29,7 +29,7 @@ Cильные С/C++ разработчики в команду Facebook/Oculus:
 - Problem solving and optimization ability
 - Знание английского языка
 ```
-[Детали на HH](https://ivanovo.hh.ru/vacancy/25629206)
+[Детали на HH](https://hh.ru/vacancy/26116274)
 
 ## Python-разработчик - удаленно или переезд в США
 Backend разработчики (Python) для работы над супер популярным социальным новостным ресурсом в США.
