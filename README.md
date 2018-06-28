@@ -45,18 +45,18 @@ Backend разработчики (Python) для работы над супер 
 - Excellent collaborative and communication skills
 - Ability to learn new technologies quickly and independently
 ```
-[Детали на HH](https://ivanovo.hh.ru/vacancy/25446075 )
+[Детали на HH](https://ivanovo.hh.ru/vacancy/25446075)
 
 ## Senior Back-end Developer (NodeJS) - удаленно или переезд в США
 В связи с расширением набираем команду сильных TypeScript разработчиков для работы над бэкэндом популярного сервиса, с помощью которого можно билдить, тестировать и дистрибьютить мобильные приложения. Вы будете работать с крутыми инженерами из известных стартапов и команд Microsoft (App Center, HockeyApp, Mobile Dev Tools, ReactNative, Xamarin, ...).
 ```
-- Разговорный английский
-- Уверенное владение (3+ года работы) TypeScript/NodeJS
-- MacOS
-- Желательно знание Azure
+- Уверенное владение TypeScript / NodeJS
+- Опыт коммерческой разработки
 - Уверенная работа с Git
+- Разговорный английский
+- Опыт работы с микросервисной архитектурой
 ```
-[Детали на HH](https://novosibirsk.hh.ru/vacancy/25853979)
+[Детали на HH](https://hh.ru/vacancy/26107780)
 
 ## Senior Front-end Developer (ReactJS) - удаленно или переезд в США
 Front-end разработчики (ReactJS/Redux) для работы над супер популярным социальным новостным ресурсом в США.
